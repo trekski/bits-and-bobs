@@ -8,11 +8,11 @@
 
 italic
 
-[i]lorem[/]
+[i:17hlnlju]lorem[/i:17hlnlju]
 
 underscore
 
-[u]lorem[/]
+[u:17hlnlju]lorem[/u:17hlnlju]
 
 cytaty
 [quote:17hlnlju]
@@ -33,19 +33,42 @@ listy
 
 [list:17hlnlju]
 [*:17hlnlju]aaa[/*:m:17hlnlju]
-[*:17hlnlju]bbb[/*:m:17hlnlju][/list:u:17hlnlju]
+[*:17hlnlju]bbb[/*:m:17hlnlju]
+[list:17hlnlju]
+[*:17hlnlju]aaa[/*:m:17hlnlju]
+[*:17hlnlju]bbb[/*:m:17hlnlju]
+[/list:u:17hlnlju]
+[*:17hlnlju]aaa[/*:m:17hlnlju]
+[*:17hlnlju]bbb[/*:m:17hlnlju]
+[*:17hlnlju]aaa[/*:m:17hlnlju]
+[*:17hlnlju]bbb[/*:m:17hlnlju]
+[/list:u:17hlnlju]
 
 [list=1:17hlnlju]
 [*:17hlnlju]ccc[/*:m:17hlnlju]
-[*:17hlnlju]ddd[/*:m:17hlnlju][/list:o:17hlnlju]
+[*:17hlnlju]ddd[/*:m:17hlnlju]
+[/list:o:17hlnlju]
 
 [list=1:17hlnlju]
-[*:17hlnlju]eee[/*:m:17hlnlju]
-[*:17hlnlju]fff
-[list=a:17hlnlju]
-[*:17hlnlju]ggg[/*:m:17hlnlju]
-[*:17hlnlju]hhh[/*:m:17hlnlju][/list:o:17hlnlju][/*:m:17hlnlju]
-[*:17hlnlju]iii[/*:m:17hlnlju][/list:o:17hlnlju]
+    [*:17hlnlju]eee[/*:m:17hlnlju]
+    [*:17hlnlju]fff[/*:m:17hlnlju]
+    [list=a:17hlnlju]
+        [*:17hlnlju]111[/*:m:17hlnlju]
+        [*:17hlnlju]222[/*:m:17hlnlju]
+        [*:17hlnlju]333[/*:m:17hlnlju]
+    [/list:o:17hlnlju]
+    [*:17hlnlju]x[/*:m:17hlnlju]
+    [list=a:17hlnlju]
+        [*:17hlnlju]111[/*:m:17hlnlju]
+        [list=a:17hlnlju]
+            [*:17hlnlju]444[/*:m:17hlnlju]
+            [*:17hlnlju]555[/*:m:17hlnlju]
+            [*:17hlnlju]666[/*:m:17hlnlju]
+        [/list:o:17hlnlju]
+        [*:17hlnlju]333[/*:m:17hlnlju]
+    [/list:o:17hlnlju]
+    [*:17hlnlju]iii[/*:m:17hlnlju]
+[/list:o:17hlnlju]
 
 [img:17hlnlju]https&#58;//v&#46;wpimg&#46;pl/MDc0OC5wYiUCUjlwGgxvMEEKbSpcVWFmFhJ1YRpFfHwbAXxzGgQqMxMeODNWEyNqE1xgIgdHdCZWBXl1DUYvJloELnZTRSl9U1N3IQVDfHRUBHdtRRkqZh4[/img:17hlnlju]
 
